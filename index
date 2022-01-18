@@ -1,0 +1,2 @@
+Template, Hostname, Vendor, Command
+eltex2348p_dhcp_bin.template:eltex2348p_dhcp_mactab.template, .*, eltex, sh[[ow]] ip dhcp bi[[nding]]

@@ -1,0 +1,5 @@
+Value Required IP (\d+(\.\d+){3})
+Value Key Mac ((..:){5}..)
+
+Start
+  ^${IP}\s+${Mac}.* -> Record

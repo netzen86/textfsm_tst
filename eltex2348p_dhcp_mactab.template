@@ -1,0 +1,5 @@
+Value Required Port (\D{2}\d\/\d\/\d|Po\d)
+Value Key Mac ((..:){5}..)
+
+Start
+  ^.*${Mac}\s+${Port}.* -> Record
